@@ -1,3 +1,3 @@
 
 
-console.log("Heyy How are you?" + "Whats going on?");
+console.log("Heyy How are you?");
